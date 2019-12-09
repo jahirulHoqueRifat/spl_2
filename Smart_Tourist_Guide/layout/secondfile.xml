@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:weightSum="3"
+            android:layout_marginBottom="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="70dp">
+
+
+            <ImageView
+                android:layout_marginTop="8dp"
+                android:layout_weight=".5"
+                android:id="@+id/imageViewId"
+                android:src="@drawable/museum"
+
+                android:layout_width="0dp"
+                android:layout_height="55dp" />
+
+            <LinearLayout
+                android:layout_weight="2.5"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/nameId"
+                    android:gravity="left"
+                    android:text="Bhooter Bari Restaurant"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    />
+
+                <TextView
+                    android:id="@+id/addressId"
+                    android:gravity="left"
+                    android:text="32/34/Ka Lalbagh Road (Oposite Dhaka 1211"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+
+                    android:textStyle="bold"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    />
+                <TextView
+                    android:id="@+id/rating"
+                    android:gravity="left"
+                    android:text="32/34/Ka Lalbagh Road (Oposite Dhaka 1211"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+
+                    android:textStyle="bold"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

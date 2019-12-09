@@ -1,0 +1,340 @@
+<resources>
+
+    <string name="google_maps_api_key">AIzaSyCUMfYwoYNo2pZg02Fdwu1J9WGB8KT7v8U</string>
+    <string name="app_name">ProjectDemo1</string>
+
+    <string-array name="Types_name">
+        <item> Top Picks</item>
+        <item> Restaurent</item>
+        <item> Sea-Breach</item>
+        <item> Park</item>
+        <item> Zoo</item>
+        <item> Cafe</item>
+        <item> Cinema</item>
+        <item> Museum</item>
+        <item> Hill</item>
+        <item> Waterfall</item>
+        <item> Resort</item>
+        <item> Recommandation</item>
+    </string-array>
+
+    <string-array name="cafe_name">
+
+        <item>BruTown Cafe</item>
+        <item>Firestone</item>
+        <item>Shinning Cafe</item>
+        <item>Coffee With Imran</item>
+        <item>D-Cafe</item>
+        <item>Comic Cafe</item>
+        <item>Cafe Darbar</item>
+        <item>Gloria Jeans Coffees</item>
+        <item>Beans n Cookies</item>
+        <item>Yellow Cafe</item>
+    </string-array>
+
+    <string-array name="cafe_address">
+        <item>Ground Sasa Apartment,Dhaka 1217</item>
+        <item>50 Lalbagh Rd,Dhaka 1211</item>
+        <item>37 K.P. Ghosh Street Nayabazar Dhaka</item>
+        <item>1/3,Nazimuddin Rd,Dhaka 1100</item>
+        <item>Azimpur Rd,Dhaka 1211</item>
+        <item>P9X9+WF Dhaka</item>
+        <item>P9RF+PH Dhaka</item>
+        <item>67 GH Heights (1st Floor) Satmasjid Rd Dhanmondi Dhaka 1205</item>
+        <item>P9QH+97 Dhaka</item>
+        <item>P9QJ+G8 Dhaka</item>
+    </string-array>
+
+    <string-array name="cafe_rating">
+        <item>4.3</item>
+        <item>4.0</item>
+        <item>2.0</item>
+        <item>3.1</item>
+        <item>3.8</item>
+        <item>4.0</item>
+        <item>4.2</item>
+        <item>4.2</item>
+        <item>4.1</item>
+        <item>4.1</item>
+    </string-array>
+
+    <string-array name="restaurent_name">
+
+        <item>Royal Restaurant</item>
+        <item>Grand Nawab</item>
+        <item>Bhooter Bari Restaurant</item>
+        <item>Star Hotel and Kabab</item>
+        <item>Euro Asiano Restaurant</item>
+        <item>Pafin Chinese Restaurant</item>
+        <item>Pizza King</item>
+        <item>Spice and Herbs Restaurant</item>
+        <item>Birds Eye Roof Top Restaurant and Convention Hall</item>
+        <item>Tandoori Night</item>
+        <item>One Star Restaurant</item>
+    </string-array>
+
+    <string-array name="restaurent_address">
+        <item>44 Haranath Ghosh Rd Dhaka 1211</item>
+        <item>PC92+84 Dhaka</item>
+        <item>32/34/Ka Lalbagh Road (Oposite Dhaka 1211</item>
+        <item>P9QJ+PF Dhaka</item>
+        <item>Moulana Bhasani Road Dhaka 1000</item>
+        <item>Lalbagh Rd Dhaka</item>
+        <item>17 Lalbagh Road Dhaka 1211</item>
+        <item>90/91 SH Plaza 1st Floor Nazimuddin Road Dhaka 1100</item>
+        <item>Baitul View Tower H.No 56/1 19th floor Dhaka 1000</item>
+        <item>31 Larmini Street Wari Sutrapur Dhaka 1100</item>
+        <item>54/55 Kazi Allaudin Rd Dhaka 1000</item>
+    </string-array>
+
+    <string-array name="restaurent_rating">
+        <item>4.3</item>
+        <item>4.0</item>
+        <item>4.0</item>
+        <item>4.1</item>
+        <item>3.4</item>
+        <item>4.0</item>
+        <item>4.2</item>
+        <item>4.1</item>
+        <item>4.1</item>
+        <item>4.1</item>
+        <item>3.9</item>
+    </string-array>
+
+    <string-array name="zoo_name">
+        <item>Bangladesh National Zoo</item>
+        <item>Savar Mini Zoo</item>
+        <item>BGB Zoo</item>
+
+    </string-array>
+
+    <string-array name="zoo_address">
+        <item>Zoo Road Dhaka 1216</item>
+        <item>V78G+JR Savar Union</item>
+        <item>P9PH+M7 Dhaka</item>
+    </string-array>
+
+    <string-array name="zoo_rating">
+        <item>4.2</item>
+        <item>3.8</item>
+        <item>3.4</item>
+    </string-array>
+
+    <string-array name="park_name">
+
+        <item>Ramna Park</item>
+        <item>Chandrima Udyan</item>
+        <item>Chowdhuripara Shishu Park</item>
+        <item>Bahadur Shah Park</item>
+        <item>Panthokunjo</item>
+        <item>Rasulbagh Sishu Park</item>
+        <item>Sikkatuli Park</item>
+
+    </string-array>
+
+    <string-array name="park_address">
+        <item>Moulana Bhasani Rd Dhaka 1217</item>
+        <item>Crecent Lake Rd Dhaka</item>
+        <item>152 Jhilpar Rd Dhaka</item>
+        <item>Johnson Rd, Dhaka</item>
+        <item>Dhaka 1205</item>
+        <item>Dhaka 1212</item>
+        <item>Dhaka</item>
+
+    </string-array>
+
+    <string-array name="park_rating">
+        <item>4.3</item>
+        <item>4.2</item>
+        <item>4.1</item>
+        <item>4.1</item>
+        <item>3.8</item>
+        <item>3.9</item>
+        <item>4.2</item>
+    </string-array>
+
+    <string-array name="resort_name">
+
+        <item>BCDM Savar</item>
+        <item>Hotel Orchard Suites</item>
+        <item>Dhaka Regency Hotel  Resort</item>
+        <item>Resort Atlantis</item>
+        <item>Elenga Resort Ltd</item>
+        <item>Hotel Areo-Link</item>
+        <item>Sikkatuli Park</item>
+    </string-array>
+
+    <string-array name="resort_address">
+        <item>V896+49 Dhaka</item>
+        <item>QCR3+P6 Dhaka</item>
+        <item>RCH9+QP Dhaka</item>
+        <item>W7MV+85 Gazirchat</item>
+        <item>Elenga Kalihati Upazila Tangail Elenga</item>
+        <item>V98W+V9 Dhaka</item>
+    </string-array>
+
+    <string-array name="resort_rating">
+        <item>4.4</item>
+        <item>4.0</item>
+        <item>4.3</item>
+        <item>3.9</item>
+        <item>3.8</item>
+        <item>3.8</item>
+    </string-array>
+
+    <string-array name="museum_name">
+
+        <item>Bangladesh National Museum</item>
+        <item>BGB Museum</item>
+        <item>Language Movement Museum</item>
+        <item>Bangabandhu Memorial Museum</item>
+        <item>Bangladesh Police Liberation War Museum</item>
+        <item>Bangladesh Air Force Museum</item>
+        <item>Bangladesh Military Museum</item>
+        <item>Museum of Zoology</item>
+
+    </string-array>
+
+    <string-array name="museum_address">
+        <item>Dhaka 1000</item>
+        <item>P9JH+MQ Dhaka</item>
+        <item>Dhaka 1205</item>
+        <item>Q92G+JM Dhaka</item>
+        <item>Rajarbagh Police Lines School and College Dhaka</item>
+        <item>BAF Base Bashar Tejgaon Dhaka</item>
+        <item>Dhaka 1215</item>
+
+    </string-array>
+
+    <string-array name="museum_rating">
+        <item>4.5</item>
+        <item>4.2</item>
+        <item>4.4</item>
+        <item>4.6</item>
+        <item>4.4</item>
+        <item>4.4</item>
+        <item>4.4</item>
+        <item>4.3</item>
+    </string-array>
+
+    <string-array name="seabeach_name">
+
+        <item>Coxs Bazar Sea Beach</item>
+        <item>Kuakata Sea Beach</item>
+        <item>Patenga Sea Beach</item>
+        <item>St. Martins Island</item>
+
+
+    </string-array>
+
+    <string-array name="seabeach_address">
+        <item>CX8J+99 Coxs Bazar</item>
+        <item>R47C+CX Kuakata</item>
+        <item>6QPR+2J Chittagong</item>
+        <item>J8MG+6J Chera Dwip</item>
+
+
+    </string-array>
+
+    <string-array name="seabeach_rating">
+        <item>4.8</item>
+        <item>4.4</item>
+        <item>4.3</item>
+        <item>5.0</item>
+
+    </string-array>
+
+    <string-array name="hill_name">
+
+        <item>Chimbuk Hill</item>
+        <item>Chandranath Hill</item>
+        <item>Nilachal Pahar</item>
+        <item>Keokradong</item>
+        <item>Probortok Hill</item>
+        <item>Saka Haphongm</item>
+
+
+    </string-array>
+
+    <string-array name="hill_address">
+        <item>375C+2X Thaprupara</item>
+        <item>VJPR+72 Chhattarua</item>
+        <item>C4JH+GC Kotbari</item>
+        <item>WGX7+XQ Passing Para</item>
+        <item>Chittagong</item>
+        <item>7MHJQJP5+HX</item>
+
+
+    </string-array>
+
+    <string-array name="hill_rating">
+        <item>4.6</item>
+        <item>4.5</item>
+        <item>4.4</item>
+        <item>4.8</item>
+        <item>4.1</item>
+        <item>4.2</item>
+
+    </string-array>
+
+    <string-array name="waterfall_name">
+
+        <item>Risang Waterfall</item>
+        <item>Shuvolong Waterfalls</item>
+        <item>Khoiyachora Waterfalls</item>
+        <item>Pantumai Waterfall</item>
+        <item>Baklai Waterfall</item>
+        <item>Parikunda Waterfall</item>
+
+
+    </string-array>
+
+    <string-array name="waterfall_address">
+        <item>3W8V+CC Tabalchar</item>
+        <item>P67X+5G Subholong Bazar</item>
+        <item>Khoiyachora Waterfalls Rd Mirsharai</item>
+        <item>Gowainghat</item>
+        <item>VG98+7H Baklai Para</item>
+        <item>J6QF+5R Kalajura</item>
+
+
+    </string-array>
+
+    <string-array name="waterfall_rating">
+        <item>4.5</item>
+        <item>4.4</item>
+        <item>4.6</item>
+        <item>4.5</item>
+        <item>4.6</item>
+        <item>4.3</item>
+
+    </string-array>
+
+    <string-array name="cinema_name">
+
+        <item>Star Cineplex  Shimanto Shambhar</item>
+        <item>BGB Cinema Hall</item>
+        <item>Madhumita Cinema Hall</item>
+        <item>Balaka Cine World</item>
+        <item>Jonaki Cinema Hall</item>
+
+    </string-array>
+
+    <string-array name="cinema_address">
+        <item>Rd No 2 Dhaka 1205</item>
+        <item>Dhaka 1205</item>
+        <item>158/160 Dhaka 1000</item>
+        <item>P9MP+92 Dhaka</item>
+        <item>PCP8+H2 Dhaka</item>
+
+    </string-array>
+
+    <string-array name="cinema_rating">
+        <item>4.6</item>
+        <item>3.6</item>
+        <item>4.0</item>
+        <item>4.1</item>
+        <item>3.9</item>
+
+    </string-array>
+</resources>
